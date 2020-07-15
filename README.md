@@ -1,0 +1,1 @@
+# test_blog_can_delete
